@@ -1,6 +1,6 @@
-token=
-owner=
-prefix=
-game=
+token=NTExMjg2NTg3MzYwMDE4NDQy.DsozAg.exSbt0oMf4aK_fOqJjT11SWK_Mc
+owner=506006290149933056
+prefix=4
+game=Type 4Play
 stayinchannel=true
 songinstatus=false
